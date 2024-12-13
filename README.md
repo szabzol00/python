@@ -1,0 +1,1 @@
+SQLALCHEMY-vel való szerencsétlenkedésem.
